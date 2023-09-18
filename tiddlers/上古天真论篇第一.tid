@@ -1,17 +1,17 @@
 created: 20230915040306679
 creator: TidGi User
-difficulty: 5
-due: 20230918024151552
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230924074145891
+grade: 1
+history: [{"due":"20230918024151552","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230916024151552"}]
+interval: 2
 lapses: 0
-modified: 20230916024151553
+modified: 20230918074145891
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230916024151552
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230918074145891
+stability: 5.512139752431654
 tags: ?
 title: 上古天真论篇第一
 type: text/vnd.tiddlywiki
