@@ -1,17 +1,17 @@
 created: 20230915041255135
 creator: TidGi User
-difficulty: 5
-due: 20230918074925063
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230924085140352
+grade: 1
+history: [{"due":"20230918074925063","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230916074925063"}]
+interval: 2
 lapses: 0
-modified: 20230916074925063
+modified: 20230918085140352
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230916074925063
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230918085140352
+stability: 5.512139752431654
 tags: ?
 title: 四气调神大论篇第二
 type: text/vnd.tiddlywiki
