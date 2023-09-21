@@ -1,17 +1,17 @@
 created: 20230918015344589
 creator: KylePan
-difficulty: 5
-due: 20230921011343556
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230927071558648
+grade: 1
+history: [{"due":"20230921011343556","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230919011343556"}]
+interval: 2
 lapses: 0
-modified: 20230919011343556
+modified: 20230921071558648
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230919011343556
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230921071558648
+stability: 5.512139752431654
 tags: ?
 title: 汤液醪醴论篇第十四
 
