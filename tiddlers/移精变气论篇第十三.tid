@@ -1,17 +1,17 @@
 created: 20230917130226835
 creator: KylePan
-difficulty: 5
-due: 20230921011339906
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230927072336734
+grade: 1
+history: [{"due":"20230921011339906","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230919011339906"}]
+interval: 2
 lapses: 0
-modified: 20230919011339906
+modified: 20230921072336734
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230919011339906
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230921072336734
+stability: 5.512139752431654
 tags: ?
 title: 移精变气论篇第十三
 
