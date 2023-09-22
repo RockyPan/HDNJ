@@ -1,17 +1,17 @@
 created: 20230919072919394
 creator: KylePan
-difficulty: 5
-due: 20230922084551725
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230928062250227
+grade: 1
+history: [{"due":"20230922084551725","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230920084551725"}]
+interval: 2
 lapses: 0
-modified: 20230920084551725
+modified: 20230922062250227
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230920084551725
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230922062250227
+stability: 5.512139752431654
 tags: ?
 title: 经脉别论篇第二十一
 
