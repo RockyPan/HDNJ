@@ -1,17 +1,17 @@
 created: 20230919021507111
 creator: KylePan
-difficulty: 5
-due: 20230922080033084
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230928072957899
+grade: 1
+history: [{"due":"20230922080033084","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230920080033084"}]
+interval: 2
 lapses: 0
-modified: 20230920080033084
+modified: 20230922072957899
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230920080033084
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230922072957899
+stability: 5.512139752431654
 tags: ?
 title: 平人气象论篇第十八
 
