@@ -1,17 +1,17 @@
 created: 20230918065850645
 creator: KylePan
-difficulty: 5
-due: 20230922074202137
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230928064756963
+grade: 1
+history: [{"due":"20230922074202137","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230920074202137"}]
+interval: 2
 lapses: 0
-modified: 20230920074202138
+modified: 20230922064756963
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230920074202137
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20230922064756963
+stability: 5.512139752431654
 tags: ?
 title: 脉要精微论篇第十七
 
