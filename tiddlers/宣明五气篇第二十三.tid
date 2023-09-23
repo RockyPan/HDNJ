@@ -1,19 +1,20 @@
 created: 20230919092103056
 creator: KylePan
-difficulty: 5
-due: 20230923011820699
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230929073837945
+grade: 1
+history: [{"due":"20230923011820699","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921011820699"}]
+interval: 2
 lapses: 0
-modified: 20230921011820699
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230921011820699
-stability: 2
+modified: 20230923073837946
+modifier: KylePa
+reps: 2
+retrievability: 0.9
+review: 20230923073837943
+stability: 5.512139752431654
 tags: ?
 title: 宣明五气篇第二十三
+type: text/vnd.tiddlywiki
 
 五味所入：酸入肝，辛入肺，苦入心，咸入肾，甘入脾，是谓五入。
 
