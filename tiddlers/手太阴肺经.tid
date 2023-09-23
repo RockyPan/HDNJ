@@ -1,19 +1,20 @@
 created: 20230921021332478
 creator: KylePan
-difficulty: 5
-due: 20230923084506153
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20230929031927949
+grade: 1
+history: [{"due":"20230923084506153","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084506153"}]
+interval: 2
 lapses: 0
-modified: 20230921111608191
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230921084506153
-stability: 2
+modified: 20230923031927949
+modifier: KylePa
+reps: 2
+retrievability: 0.9
+review: 20230923031927946
+stability: 5.512139752431654
 tags: 经络 ?
 title: 手太阴肺经
+type: text/vnd.tiddlywiki
 
 [img[image.png]]
 
