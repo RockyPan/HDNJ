@@ -1,19 +1,20 @@
 created: 20230921021819675
 creator: KylePan
-difficulty: 5
-due: 20230923084512938
-grade: -1
-history: []
-interval: 0
+difficulty: 4.968433471420917
+due: 20231007121718172
+grade: 1
+history: [{"due":"20230923084512938","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084512938"}]
+interval: 5
 lapses: 0
-modified: 20230922061402663
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230921084512938
-stability: 2
+modified: 20230926121718172
+modifier: KylePa
+reps: 2
+retrievability: 0.7684334714209162
+review: 20230926121718169
+stability: 10.8623997997734
 tags: 经络 ?
 title: 足阳明胃经
+type: text/vnd.tiddlywiki
 
 [img[image_zymwj.png]]
 
@@ -22,3 +23,15 @@ title: 足阳明胃经
 下关，主治中耳炎。
 
 颊车，地仓透颊车主治面部中风，下健侧。
+
+梁丘为郄穴，主消炎。梁丘上有一个经外奇穴，解穴，扎针时误伤血管引起的肿痛鼓包，可以用对侧的解穴来治。
+
+鹤顶，双膝眼，阴阳陵泉，五个穴道，下四针，阴阳陵泉用透针，可以治所有膝盖的问题。
+
+足三里，为胃经的本穴，主治一切胃病。
+
+阑尾穴，奇穴，足三里下一寸，有压痛为阑尾炎。
+
+条口穴透到足膀胱经的承山，可以治疗五十肩。
+
+解溪是胃经的母穴

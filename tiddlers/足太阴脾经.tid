@@ -1,18 +1,19 @@
 created: 20230921022009387
 creator: KylePan
-difficulty: 5
-due: 20230923084517839
-grade: -1
-history: []
-interval: 0
+difficulty: 4.968433471420917
+due: 20231007121703948
+grade: 1
+history: [{"due":"20230923084517839","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084517839"}]
+interval: 5
 lapses: 0
-modified: 20230921084517840
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230921084517839
-stability: 2
+modified: 20230926121703948
+modifier: KylePa
+reps: 2
+retrievability: 0.7684334714209162
+review: 20230926121703947
+stability: 10.8623997997734
 tags: 经络 ?
 title: 足太阴脾经
+type: text/vnd.tiddlywiki
 
 [img[image_zdypj.png]]

@@ -1,19 +1,20 @@
 created: 20230921061507620
 creator: KylePan
-difficulty: 5
-due: 20230924012602865
-grade: -1
-history: []
-interval: 0
+difficulty: 5.010000000000001
+due: 20231005122808914
+grade: 1
+history: [{"due":"20230924012602865","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230922012602865"}]
+interval: 4
 lapses: 0
-modified: 20230922025623092
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230922012602865
-stability: 2
+modified: 20230926122808914
+modifier: KylePa
+reps: 2
+retrievability: 0.81
+review: 20230926122808914
+stability: 9.075440292178332
 tags: ?
 title: 评热病论篇第三十三
+type: text/vnd.tiddlywiki
 
 黄帝问曰：有病温者，汗岀辄复热，而脉躁疾不为汗衰，狂言不能食，病名为何？岐伯对曰：病名阴阳交，交者死也。帝曰：愿闻其说。岐伯曰：人所以汗出者，皆生于谷，谷生于精。今邪气交争于骨肉而得汗者，是邪却而精胜也，精胜则当能食而不复热。复热者邪气也，汗者精气也，''今汗出而辄复热者''，是邪胜也，不能食者，精无俾也，病而留者，其寿可立而倾也。且夫《热论》曰：''汗岀而脉尚躁盛者死''。今脉不与汗相应，此不胜其病也，其死明矣。''狂言者''是失志，失志者死。今见三死，不见一生，虽愈必死也。（只要津液在，可汗解）
 
