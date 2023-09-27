@@ -6,12 +6,21 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
+<<<<<<< HEAD
 modified: 20230927013544351
 modifier: KylePan
 reps: 1
 retrievability: 1
 review: 20230921084512938
 stability: 2
+=======
+modified: 20230927131849185
+modifier: KylePa
+reps: 2
+retrievability: 0.7684334714209162
+review: 20230926121718169
+stability: 10.8623997997734
+>>>>>>> 89b1f49 (Updated with Git-Sync)
 tags: 经络 ?
 title: 足阳明胃经
 
@@ -33,8 +42,14 @@ title: 足阳明胃经
 
 陷谷为胃经俞穴。定时发作的病都可以在相应经上的俞穴下针。
 
+<<<<<<< HEAD
 内庭为胃经的荣穴。
 
 历兑为胃经的井穴。补井当补合，泻井当泻荣，当井穴不好下针时可以这面代替。逆气下针为泻。井主心下满。所有的井穴都可以治急性晕迷，十宣放血。
 
 “山陵沟谷”。导引时可以按这个顺序进行。
+=======
+解溪是胃经的母穴。
+
+冲阳为胃经的原穴。
+>>>>>>> 89b1f49 (Updated with Git-Sync)
