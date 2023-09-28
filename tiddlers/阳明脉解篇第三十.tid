@@ -1,17 +1,17 @@
 created: 20230921040357131
 creator: KylePan
-difficulty: 5
-due: 20230924012517347
-grade: -1
-history: []
-interval: 0
+difficulty: 4.929
+due: 20231011022027089
+grade: 1
+history: [{"due":"20230924012517347","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230922012517347"}]
+interval: 6
 lapses: 0
-modified: 20230922012517347
+modified: 20230928022027089
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230922012517347
-stability: 2
+reps: 2
+retrievability: 0.7290000000000001
+review: 20230928022027089
+stability: 12.646047859057882
 tags: ?
 title: 阳明脉解篇第三十
 

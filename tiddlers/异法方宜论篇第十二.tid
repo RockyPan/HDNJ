@@ -1,18 +1,18 @@
 caption: 
 created: 20230917125009514
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230926091724013
+difficulty: 5.1582034015854665
+due: 20231015022337373
 grade: 1
-history: [{"due":"20230920033313187","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230918033313187"}]
-interval: 2
+history: [{"due":"20230920033313187","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230918033313187"},{"due":"20230926091724013","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230920091724013"}]
+interval: 8
 lapses: 0
-modified: 20230920091724013
+modified: 20230928022337373
 modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20230920091724013
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8582034015854654
+review: 20230928022337373
+stability: 16.869537326515847
 tags: ?
 title: 异法方宜论篇第十二
 type: text/vnd.tiddlywiki

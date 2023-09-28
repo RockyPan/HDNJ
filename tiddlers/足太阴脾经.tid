@@ -1,18 +1,18 @@
 caption: 
 created: 20230921022009387
 creator: KylePan
-difficulty: 5
-due: 20230923084517839
-grade: -1
-history: []
-interval: 0
+difficulty: 4.8915901242788244
+due: 20231012021716189
+grade: 1
+history: [{"due":"20230923084517839","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084517839"}]
+interval: 7
 lapses: 0
-modified: 20230927132848665
-modifier: KylePa
-reps: 1
-retrievability: 1
-review: 20230921084517839
-stability: 2
+modified: 20230928021716189
+modifier: KylePan
+reps: 2
+retrievability: 0.6915901242788246
+review: 20230928021716189
+stability: 14.421632209922258
 tags: 经络 ?
 title: 足太阴脾经
 type: text/vnd.tiddlywiki
@@ -40,3 +40,5 @@ type: text/vnd.tiddlywiki
 ''血海''，妇科名穴，主治月经方面的问题。血海边上有个奇穴，百虫窝，治寄生虫。
 
 天溪主治乳房里有硬块。
+
+大包穴是脾之大络，总统全身络脉。

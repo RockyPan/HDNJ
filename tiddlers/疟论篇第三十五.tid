@@ -1,22 +1,17 @@
 created: 20230922032127174
 creator: KylePan
-<<<<<<< HEAD
-difficulty: 5
-due: 20230925013959212
-grade: -1
-history: []
-interval: 0
+difficulty: 4.968433471420917
+due: 20231009022146177
+grade: 1
+history: [{"due":"20230925013959212","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230923013959210"}]
+interval: 5
 lapses: 0
-modified: 20230923013959213
-modifier: KylePa
-reps: 1
-retrievability: 1
-review: 20230923013959210
-stability: 2
-=======
-modified: 20230922093150623
+modified: 20230928022146177
 modifier: KylePan
->>>>>>> a2514c9 (Updated with Git-Sync)
+reps: 2
+retrievability: 0.7684334714209162
+review: 20230928022146177
+stability: 10.8623997997734
 tags: ?
 title: 疟论篇第三十五
 type: text/vnd.tiddlywiki
