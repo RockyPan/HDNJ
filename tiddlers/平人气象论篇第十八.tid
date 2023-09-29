@@ -1,19 +1,20 @@
 created: 20230919021507111
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230928072957899
+difficulty: 5.174765109495022
+due: 20231014034121989
 grade: 1
-history: [{"due":"20230922080033084","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230920080033084"}]
-interval: 2
+history: [{"due":"20230922080033084","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230920080033084"},{"due":"20230928072957899","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230922072957899"}]
+interval: 7
 lapses: 0
-modified: 20230922072957899
-modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20230922072957899
-stability: 5.512139752431654
+modified: 20230929034121989
+modifier: KylePa
+reps: 3
+retrievability: 0.8747651094950208
+review: 20230929034121984
+stability: 15.436156742736665
 tags: ?
 title: 平人气象论篇第十八
+type: text/vnd.tiddlywiki
 
 黄帝问曰：平人何如？岐伯对曰：人一呼脉再动，一吸脉亦再动，呼吸定息脉五动，闰以太息，命曰平人。平人者，不病也。常以不病调病人，医不病，故为病人平息以调之为法。
 

@@ -1,19 +1,20 @@
 created: 20230918065850645
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230928064756963
+difficulty: 5.174765109495022
+due: 20231014034103771
 grade: 1
-history: [{"due":"20230922074202137","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230920074202137"}]
-interval: 2
+history: [{"due":"20230922074202137","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230920074202137"},{"due":"20230928064756963","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230922064756963"}]
+interval: 7
 lapses: 0
-modified: 20230922064756963
-modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20230922064756963
-stability: 5.512139752431654
+modified: 20230929034103772
+modifier: KylePa
+reps: 3
+retrievability: 0.8747651094950208
+review: 20230929034103770
+stability: 15.436156742736665
 tags: ?
 title: 脉要精微论篇第十七
+type: text/vnd.tiddlywiki
 
 黄帝问曰：诊法何如？岐伯对曰：诊法常以平旦，阴气未动，阳气未散，饮食未进，经脉未盛，络脉调匀，气血未乱，故乃可诊有过之脉。切脉动静而视精明、察五色、观五脏有余不足，六腑强弱，形之盛衰，以此参伍，决死生之分。
 
