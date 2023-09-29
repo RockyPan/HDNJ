@@ -1,19 +1,20 @@
 created: 20230918015344589
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230927071558648
+difficulty: 5.1582034015854665
+due: 20231016025350413
 grade: 1
-history: [{"due":"20230921011343556","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230919011343556"}]
-interval: 2
+history: [{"due":"20230921011343556","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230919011343556"},{"due":"20230927071558648","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230921071558648"}]
+interval: 8
 lapses: 0
-modified: 20230921071558648
-modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20230921071558648
-stability: 5.512139752431654
+modified: 20230929025350414
+modifier: KylePa
+reps: 3
+retrievability: 0.8582034015854654
+review: 20230929025350409
+stability: 16.869537326515847
 tags: ?
 title: 汤液醪醴论篇第十四
+type: text/vnd.tiddlywiki
 
 黄帝问曰：为五谷汤液及醪醴奈何？岐伯对曰：必以稻米，炊之稻薪，稻米者完，稻薪者坚。帝曰：何以然？岐伯曰：此得天地之和，高下之宜，故能至完；伐取得时，故能至坚也。帝曰：上古圣人作汤液醪醴，为而不用何也？岐伯曰：自古圣人之作汤液醪醴者，以为备耳！夫上古作汤液，故为而弗服也。中古之世，道德稍衰，邪气时至，服之万全。帝曰：今之世不必已何也？岐伯曰：当今之世，必齐毒药攻其中，镵^^【1】^^石针艾治其外也。帝曰：形弊血尽而功不立者何？岐伯曰：神不使也。帝曰：何谓神不使？岐伯曰：针石道也。精神不进，志意不治，故病不可愈。今精坏神去，荣卫不可复收。何者？嗜欲无穷，而忧患不止，精气弛坏，荣泣卫除，故神去之而病不愈也。
 

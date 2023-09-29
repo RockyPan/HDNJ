@@ -1,19 +1,20 @@
 created: 20230917130226835
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230927072336734
+difficulty: 5.1582034015854665
+due: 20231016025405720
 grade: 1
-history: [{"due":"20230921011339906","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230919011339906"}]
-interval: 2
+history: [{"due":"20230921011339906","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230919011339906"},{"due":"20230927072336734","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230921072336734"}]
+interval: 8
 lapses: 0
-modified: 20230921072336734
-modifier: KylePan
-reps: 2
-retrievability: 0.9
-review: 20230921072336734
-stability: 5.512139752431654
+modified: 20230929025405721
+modifier: KylePa
+reps: 3
+retrievability: 0.8582034015854654
+review: 20230929025405717
+stability: 16.869537326515847
 tags: ?
 title: 移精变气论篇第十三
+type: text/vnd.tiddlywiki
 
 黄帝问曰：余闻古之治病，惟其移精变气，可祝由而已。今世治病，毒药治其内，针石治其外，或愈或不愈，何也？岐伯对曰：往古人居禽兽之间，动作以避寒，阴居以避暑，内无眷慕之累，外无伸宦之形，此恬憺之世，邪不能深入也。故毒药不能治其内，针石不能治其外，故可移精祝由而已。当今之世不然，忧患缘其内，苦形伤其外，又失四时之从，逆寒暑之宜。贼风数至，虚邪朝夕，内至五脏骨髓，外伤空窍肌肤，所以小病必甚，大病必死，故祝由不能已也。
 
