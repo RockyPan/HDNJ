@@ -1,17 +1,17 @@
 created: 20230921022851677
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230929031729793
+difficulty: 5.174765109495022
+due: 20231015062709554
 grade: 1
-history: [{"due":"20230923084536178","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084536177"}]
-interval: 2
+history: [{"due":"20230923084536178","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084536177"},{"due":"20230929031729793","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230923031729791"}]
+interval: 7
 lapses: 0
-modified: 20230923031729794
+modified: 20230930062709554
 modifier: KylePa
-reps: 2
-retrievability: 0.9
-review: 20230923031729791
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8747651094950208
+review: 20230930062709547
+stability: 15.436156742736665
 tags: 经络 ?
 title: 手少阳三焦经
 type: text/vnd.tiddlywiki

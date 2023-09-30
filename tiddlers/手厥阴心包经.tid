@@ -1,17 +1,17 @@
 created: 20230921022725871
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230929031633026
+difficulty: 5.174765109495022
+due: 20231015062657919
 grade: 1
-history: [{"due":"20230923084533443","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084533443"}]
-interval: 2
+history: [{"due":"20230923084533443","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084533443"},{"due":"20230929031633026","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230923031633023"}]
+interval: 7
 lapses: 0
-modified: 20230923031633027
+modified: 20230930062657919
 modifier: KylePa
-reps: 2
-retrievability: 0.9
-review: 20230923031633023
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8747651094950208
+review: 20230930062657914
+stability: 15.436156742736665
 tags: 经络 ?
 title: 手厥阴心包经
 type: text/vnd.tiddlywiki

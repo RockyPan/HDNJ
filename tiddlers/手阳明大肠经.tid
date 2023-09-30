@@ -1,17 +1,17 @@
 created: 20230921021622943
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20230929032014459
+difficulty: 5.174765109495022
+due: 20231015062908995
 grade: 1
-history: [{"due":"20230923084509337","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084509337"}]
-interval: 2
+history: [{"due":"20230923084509337","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084509337"},{"due":"20230929032014459","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230923032014456"}]
+interval: 7
 lapses: 0
-modified: 20230923032014459
+modified: 20230930062908996
 modifier: KylePa
-reps: 2
-retrievability: 0.9
-review: 20230923032014456
-stability: 5.512139752431654
+reps: 3
+retrievability: 0.8747651094950208
+review: 20230930062908990
+stability: 15.436156742736665
 tags: 经络 ?
 title: 手阳明大肠经
 type: text/vnd.tiddlywiki
