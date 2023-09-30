@@ -1,19 +1,20 @@
 created: 20230927051733549
 creator: KylePan
-difficulty: 5
-due: 20230930022544842
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20231006073003125
+grade: 1
+history: [{"due":"20230930022544842","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230928022544842"}]
+interval: 2
 lapses: 0
-modified: 20230928022544842
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230928022544842
-stability: 2
+modified: 20230930073003125
+modifier: KylePa
+reps: 2
+retrievability: 0.9
+review: 20230930073003121
+stability: 5.512139752431654
 tags: ?
 title: 痹论篇第四十三
+type: text/vnd.tiddlywiki
 
 黄帝问曰：痹之安生？岐伯对曰：风寒湿三气杂至，合而为痹也，其风气胜者为行痹，寒气胜者为痛痹，湿气胜者为著痹也。帝曰：其有五者何也？岐伯曰：以冬遇此者为骨痹，以春遇此者为筋痹，以夏遇此者为脉痹，以至阴遇此者为肌痹，以秋遇此者为皮痹。
 
