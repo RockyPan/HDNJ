@@ -1,19 +1,20 @@
 created: 20230927045003475
 creator: KylePan
-difficulty: 5
-due: 20230930022532038
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20231008083022419
+grade: 1
+history: [{"due":"20230930022532038","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230928022532038"}]
+interval: 3
 lapses: 0
-modified: 20230928022532038
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230928022532038
-stability: 2
+modified: 20231001083022420
+modifier: KylePa
+reps: 2
+retrievability: 0.8538149682454624
+review: 20231001083022413
+stability: 7.290234566162131
 tags: ?
 title: 风论篇第四十二
+type: text/vnd.tiddlywiki
 
 黄帝问曰：风之伤人也，或为寒热，或为热中，或为寒中，或为房（历）风，或为偏枯，或为风也，其病各异，其名不同，或内至五脏六腑，不知其解。
 

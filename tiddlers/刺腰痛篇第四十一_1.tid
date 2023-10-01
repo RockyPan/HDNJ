@@ -1,19 +1,20 @@
 created: 20230927041620560
 creator: KylePan
-difficulty: 5
-due: 20230930022511966
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20231008081010202
+grade: 1
+history: [{"due":"20230930022511966","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230928022511966"}]
+interval: 3
 lapses: 0
-modified: 20230928022511966
-modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20230928022511966
-stability: 2
+modified: 20231001081010203
+modifier: KylePa
+reps: 2
+retrievability: 0.8538149682454624
+review: 20231001081010200
+stability: 7.290234566162131
 tags: ?
 title: 刺腰痛篇第四十一
+type: text/vnd.tiddlywiki
 
 足太阳脉令人腰痛，引项脊尻背如重状，刺其郄中。太阳正经出血，春无见血（春天一阳始生，放血容易使人气虚）。少阳令人腰痛，如以针刺其皮中，循循然不可以俯仰，不可以顾，刺少阳成骨之端出血，成骨在膝外廉之骨独起者，夏无见血。阳明令人腰痛，不可以顾，顾如有见者（回头易眼花），善悲，刺阳明于䯒前三痏，上下和之出血，秋无见血。足少阴令人腰痛，痛引脊内廉，刺少阴于内踝上二痏，春无见血，出血太多，不可复也。厥阴之脉令人腰痛，腰中如张弓弩弦，刺厥阴之脉，在腨踵鱼腹之外，循之累累然，乃刺之，其病令人善言，默默然不慧，刺之三痏。
 

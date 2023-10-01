@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20230923084533443","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084533443"},{"due":"20230929031633026","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230923031633023"}]
 interval: 7
 lapses: 0
-modified: 20230930062657919
+modified: 20231001021825656
 modifier: KylePa
 reps: 3
 retrievability: 0.8747651094950208
@@ -17,3 +17,7 @@ title: 手厥阴心包经
 type: text/vnd.tiddlywiki
 
 [img[image_sjyxbj.png]]
+
+九穴心包手厥阴，天池、天泉、曲泽深，郄门、间使、内关对，大陵、劳宫、中冲侵（左右一十八穴）。
+
+''内关''，即可止吐，也可崔吐，指压也有效。
