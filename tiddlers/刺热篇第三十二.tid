@@ -1,17 +1,17 @@
 created: 20230921050504402
 creator: KylePan
-difficulty: 5.010000000000001
-due: 20231005122720498
+difficulty: 5.1003914253042195
+due: 20231028023246001
 grade: 1
-history: [{"due":"20230924012547806","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230922012547806"}]
-interval: 4
+history: [{"due":"20230924012547806","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230922012547806"},{"due":"20231005122720498","interval":4,"difficulty":5.010000000000001,"stability":9.075440292178332,"retrievability":0.81,"grade":1,"lapses":0,"reps":2,"review":"20230926122720494"}]
+interval: 10
 lapses: 0
-modified: 20230926122720498
+modified: 20231006023246002
 modifier: KylePa
-reps: 2
-retrievability: 0.81
-review: 20230926122720494
-stability: 9.075440292178332
+reps: 3
+retrievability: 0.8903914253042182
+review: 20231006023245999
+stability: 22.046816882865503
 tags: 经络 ?
 title: 刺热篇第三十二
 type: text/vnd.tiddlywiki
