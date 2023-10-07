@@ -1,17 +1,17 @@
 created: 20230928085332746
 creator: KylePan
-difficulty: 5.1045267970246115
-due: 20231005094227967
+difficulty: 5.145740581547434
+due: 20231018025215031
 grade: 1
-history: [{"due":"20231002103002096","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231001103002096"}]
-interval: 1
+history: [{"due":"20231002103002096","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231001103002096"},{"due":"20231005094227967","interval":1,"difficulty":5.1045267970246115,"stability":3.0466963066680397,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231002094227965"}]
+interval: 5
 lapses: 0
-modified: 20231002094227967
-modifier: KylePa
-reps: 2
-retrievability: 0.9045267970246111
-review: 20231002094227965
-stability: 3.0466963066680397
+modified: 20231007025215031
+modifier: TidGi User
+reps: 3
+retrievability: 0.8412137845228224
+review: 20231007025215030
+stability: 11.044118029049967
 tags: ?
 title: 长刺节论篇第五十五
 type: text/vnd.tiddlywiki

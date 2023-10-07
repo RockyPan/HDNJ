@@ -1,17 +1,17 @@
 created: 20230927051733549
 creator: KylePan
-difficulty: 5.1000000000000005
-due: 20231006073003125
+difficulty: 5.174765109495022
+due: 20231022031113991
 grade: 1
-history: [{"due":"20230930022544842","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230928022544842"}]
-interval: 2
+history: [{"due":"20230930022544842","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230928022544842"},{"due":"20231006073003125","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20230930073003121"}]
+interval: 7
 lapses: 0
-modified: 20230930073003125
-modifier: KylePa
-reps: 2
-retrievability: 0.9
-review: 20230930073003121
-stability: 5.512139752431654
+modified: 20231007031113991
+modifier: TidGi User
+reps: 3
+retrievability: 0.8747651094950208
+review: 20231007031113991
+stability: 15.436156742736665
 tags: ?
 title: 痹论篇第四十三
 type: text/vnd.tiddlywiki
