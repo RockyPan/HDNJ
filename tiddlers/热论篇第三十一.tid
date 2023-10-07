@@ -1,17 +1,17 @@
 created: 20230921041444594
 creator: KylePan
-difficulty: 5.010000000000001
-due: 20231005133055663
+difficulty: 5.090114276614691
+due: 20231030021949118
 grade: 1
-history: [{"due":"20230924012534669","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230922012534669"}]
-interval: 4
+history: [{"due":"20230924012534669","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230922012534669"},{"due":"20231005133055663","interval":4,"difficulty":5.010000000000001,"stability":9.075440292178332,"retrievability":0.81,"grade":1,"lapses":0,"reps":2,"review":"20230926133055661"}]
+interval: 11
 lapses: 0
-modified: 20230926133055664
-modifier: KylePa
-reps: 2
-retrievability: 0.81
-review: 20230926133055661
-stability: 9.075440292178332
+modified: 20231007021949118
+modifier: TidGi User
+reps: 3
+retrievability: 0.8801142766146897
+review: 20231007021949117
+stability: 23.35768639543138
 tags: ?
 title: 热论篇第三十一
 type: text/vnd.tiddlywiki

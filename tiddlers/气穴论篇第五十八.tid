@@ -1,17 +1,17 @@
 created: 20230929073225683
 creator: KylePa
-difficulty: 5.1045267970246115
-due: 20231005093947771
+difficulty: 5.145740581547434
+due: 20231018021255349
 grade: 1
-history: [{"due":"20231002104046695","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231001104046695"}]
-interval: 1
+history: [{"due":"20231002104046695","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231001104046695"},{"due":"20231005093947771","interval":1,"difficulty":5.1045267970246115,"stability":3.0466963066680397,"retrievability":0.9045267970246111,"grade":1,"lapses":0,"reps":2,"review":"20231002093947768"}]
+interval: 5
 lapses: 0
-modified: 20231002093947771
-modifier: KylePa
-reps: 2
-retrievability: 0.9045267970246111
-review: 20231002093947768
-stability: 3.0466963066680397
+modified: 20231007021255349
+modifier: TidGi User
+reps: 3
+retrievability: 0.8412137845228224
+review: 20231007021255349
+stability: 11.044118029049967
 tags: ?
 title: 气穴论篇第五十八
 type: text/vnd.tiddlywiki
