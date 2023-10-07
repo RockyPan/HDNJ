@@ -1,17 +1,17 @@
 created: 20230927093324925
 creator: KylePan
-difficulty: 5.0181687265356025
-due: 20231006080038822
+difficulty: 5.100991285286991
+due: 20231021032256271
 grade: 1
-history: [{"due":"20230930054014250","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230929054014250"}]
-interval: 2
+history: [{"due":"20230930054014250","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230929054014250"},{"due":"20231006080038822","interval":2,"difficulty":5.0181687265356025,"stability":5.072276029226036,"retrievability":0.8181687265356021,"grade":1,"lapses":0,"reps":2,"review":"20231001080038817"}]
+interval: 6
 lapses: 0
-modified: 20231001080038822
-modifier: KylePa
-reps: 2
-retrievability: 0.8181687265356021
-review: 20231001080038817
-stability: 5.072276029226036
+modified: 20231007032256271
+modifier: TidGi User
+reps: 3
+retrievability: 0.882822558751388
+review: 20231007032256271
+stability: 13.811896020691348
 tags: ?
 title: 病能论篇第四十六
 type: text/vnd.tiddlywiki
