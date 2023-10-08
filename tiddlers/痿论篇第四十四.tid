@@ -6,13 +6,13 @@ grade: 1
 history: [{"due":"20230930042416129","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230929042416129"}]
 interval: 2
 lapses: 0
-modified: 20231001091242881
-modifier: KylePa
+modified: 20231008023952489
+modifier: KylePan
 reps: 2
 retrievability: 0.8181687265356021
 review: 20231001091242878
 stability: 5.072276029226036
-tags: ?
+tags: ? 素问
 title: 痿论篇第四十四
 type: text/vnd.tiddlywiki
 
