@@ -1,18 +1,18 @@
 created: 20230928080448809
 creator: KylePan
-difficulty: 5.0181687265356025
-due: 20231007091334178
+difficulty: 5.100991285286991
+due: 20231022073503953
 grade: 1
-history: [{"due":"20231001074439719","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230930074439719"}]
-interval: 2
+history: [{"due":"20231001074439719","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230930074439719"},{"due":"20231007091334178","interval":2,"difficulty":5.0181687265356025,"stability":5.072276029226036,"retrievability":0.8181687265356021,"grade":1,"lapses":0,"reps":2,"review":"20231002091334176"}]
+interval: 6
 lapses: 0
-modified: 20231002091334179
-modifier: KylePa
-reps: 2
-retrievability: 0.8181687265356021
-review: 20231002091334176
-stability: 5.072276029226036
-tags: ?
+modified: 20231008073503953
+modifier: KylePan
+reps: 3
+retrievability: 0.882822558751388
+review: 20231008073503953
+stability: 13.811896020691348
+tags: 素问 ?
 title: 刺要论篇第五十
 type: text/vnd.tiddlywiki
 

@@ -1,20 +1,19 @@
 created: 20230928081808193
 creator: KylePan
-difficulty: 5.0181687265356025
-due: 20231007091048736
+difficulty: 5.100991285286991
+due: 20231022073216393
 grade: 1
-history: [{"due":"20231001074856444","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230930074856444"}]
-interval: 2
+history: [{"due":"20231001074856444","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230930074856444"},{"due":"20231007091048736","interval":2,"difficulty":5.0181687265356025,"stability":5.072276029226036,"retrievability":0.8181687265356021,"grade":1,"lapses":0,"reps":2,"review":"20231002091048734"}]
+interval: 6
 lapses: 0
-modified: 20231002091048736
-modifier: KylePa
-reps: 2
-retrievability: 0.8181687265356021
-review: 20231002091048734
-stability: 5.072276029226036
-tags: ?
+modified: 20231008073216393
+modifier: KylePan
+reps: 3
+retrievability: 0.882822558751388
+review: 20231008073216393
+stability: 13.811896020691348
+tags: 素问 ?
 title: 刺禁论篇第五十二
-type: text/vnd.tiddlywiki
 
 黄帝问曰：愿闻禁数。岐伯对曰；脏有要害，不可不察。肝生于左，肺藏于右，心部于表，肾治于里，脾为之使，胃为之市。膈肓之上，中有父母，七节之旁，中有小心，从之有福，逆之有咎。刺中心，一日死，其动为噫。刺中肝，五日死，其动为语。刺中肾，六日死，其动为嚏。刺中肺，三日死，其动为咳。刺中脾，十日死，其动为吞。刺中胆，一日半死，其动为呕。刺跗上中大脉血出不止死。刺面中溜脉，不幸为盲。刺头中脑户，入脑立死。刺舌下中脉太过，血出不止为喑。刺足下布络中脉，血不出为肿。刺郄中大脉，令人仆脱色。刺气街（膝盖以上足阳明和足太阴到小腹）中脉，血不出，为肿鼠仆。刺脊间中髓为伛。刺乳上，中乳房，为肿根蚀。刺缺盆中内陷气泄，令人喘咳逆。刺手鱼腹内陷为肿。
 

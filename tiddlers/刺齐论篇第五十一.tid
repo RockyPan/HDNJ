@@ -1,18 +1,18 @@
 created: 20230928081552989
 creator: KylePan
-difficulty: 5.0181687265356025
-due: 20231007091221512
+difficulty: 5.100991285286991
+due: 20231022073331633
 grade: 1
-history: [{"due":"20231001074559648","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230930074559648"}]
-interval: 2
+history: [{"due":"20231001074559648","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230930074559648"},{"due":"20231007091221512","interval":2,"difficulty":5.0181687265356025,"stability":5.072276029226036,"retrievability":0.8181687265356021,"grade":1,"lapses":0,"reps":2,"review":"20231002091221510"}]
+interval: 6
 lapses: 0
-modified: 20231002091221513
-modifier: KylePa
-reps: 2
-retrievability: 0.8181687265356021
-review: 20231002091221510
-stability: 5.072276029226036
-tags: ?
+modified: 20231008073331633
+modifier: KylePan
+reps: 3
+retrievability: 0.882822558751388
+review: 20231008073331633
+stability: 13.811896020691348
+tags: 素问 ?
 title: 刺齐论篇第五十一
 type: text/vnd.tiddlywiki
 
