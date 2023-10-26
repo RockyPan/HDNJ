@@ -1,17 +1,17 @@
 created: 20230921022443227
 creator: KylePan
-difficulty: 4.968433471420917
-due: 20231007121653417
+difficulty: 4.915958981498565
+due: 20231214091447638
 grade: 1
-history: [{"due":"20230923084527008","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084527008"}]
-interval: 5
+history: [{"due":"20230923084527008","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230921084527008"},{"due":"20231007121653417","interval":5,"difficulty":4.968433471420917,"stability":10.8623997997734,"retrievability":0.7684334714209162,"grade":1,"lapses":0,"reps":2,"review":"20230926121653414"}]
+interval: 30
 lapses: 0
-modified: 20231003013751212
-modifier: KylePa
-reps: 2
-retrievability: 0.7684334714209162
-review: 20230926121653414
-stability: 10.8623997997734
+modified: 20231026091447638
+modifier: KylePan
+reps: 3
+retrievability: 0.7475255100776483
+review: 20231026091447638
+stability: 48.96552578066971
 tags: 经络 ?
 title: 足太阳膀胱经
 type: text/vnd.tiddlywiki

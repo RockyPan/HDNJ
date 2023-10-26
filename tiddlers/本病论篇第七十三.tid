@@ -1,17 +1,17 @@
 created: 20231002072203311
 creator: KylePa
-difficulty: 3.7478003092274337
-due: 20231008092915081
-grade: -1
-history: []
-interval: 0
+difficulty: 3.096396375842404
+due: 20231204092537856
+grade: 1
+history: [{"due":"20231008092915081","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231007092915081"}]
+interval: 19
 lapses: 0
-modified: 20231007092915081
+modified: 20231026092537856
 modifier: KylePan
-reps: 1
-retrievability: 1
-review: 20231007092915081
-stability: 1.05
+reps: 2
+retrievability: 0.14859606661496977
+review: 20231026092537856
+stability: 39.03024226350032
 tags: 素问 ?
 title: 本病论篇第七十三
 type: text/vnd.tiddlywiki
