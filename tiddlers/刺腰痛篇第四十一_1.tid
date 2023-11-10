@@ -1,3 +1,4 @@
+caption: 
 created: 20230927041620560
 creator: KylePan
 difficulty: 5.0538149682454625
@@ -6,8 +7,8 @@ grade: 1
 history: [{"due":"20230930022511966","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230928022511966"}]
 interval: 3
 lapses: 0
-modified: 20231001081010203
-modifier: KylePa
+modified: 20231110061746453
+modifier: KylePan
 reps: 2
 retrievability: 0.8538149682454624
 review: 20231001081010200
